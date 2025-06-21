@@ -112,16 +112,16 @@ val1 = undefined ?? null ?? 87
 
 
 
-console.log(val1);
+// console.log(val1);
 
 
 // terniary operator
 
 // condition ? true:false
 
-const iceTeaPrice = 100
+// const iceTeaPrice = 100
 
-iceTeaPrice <= 80 ? console.log("not affordable") : console.log("affordable")
+// iceTeaPrice <= 80 ? console.log("not affordable") : console.log("affordable")
 
 
 
