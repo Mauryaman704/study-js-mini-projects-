@@ -251,7 +251,7 @@ function handleObject (anyobject){
 const MyNewArray = [200,400,100]
 
 function returnSecondValue(getArray){
-    return getArray[1]
+    return getArray[0]
 }
 
 console.log(returnSecondValue(MyNewArray));
